@@ -1,4 +1,4 @@
-module github.com/kelwing/draw-svg
+module github.com/Kelwing/draw-svg
 
 go 1.13
 
